@@ -9,6 +9,7 @@ name=RHEL $releasever - Xlibre
 baseurl=https://raw.githubusercontent.com/COD3HUNT3R/rpm-xlibre/refs/heads/main/$releasever/$basearch/
 enabled=1
 gpgcheck=0
+priority=1
 ```
 
 ### How to install
