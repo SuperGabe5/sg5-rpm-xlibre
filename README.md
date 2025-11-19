@@ -11,6 +11,7 @@ Why not use Wayland?
 there's several factors
 
 1. it's not viable for the needs of a Server System
+
 (that's one of the reasons I'm packaging this, so I can also compile and package xfce4)
 
 2. it's just more functional
@@ -21,7 +22,13 @@ i know that seems redundant in this day and age but I feel that a screensaver gi
 
 4. I find it easier to work with and troubleshoot
 
-5. it's genuinely more compatible with older hardware
+   Seriously X11 has been noticably more reliable than Wayland on my Raspberry Pi 400
+
+   (on any distribution other than raspberry pi is)
+
+Even then no matter what device or system I'm using I still ended up going to x11 because some of the software I use is unstable on Wayland
+   
+6. it's genuinely more compatible with older hardware
 
    (very important for me)
 
@@ -29,7 +36,7 @@ i know that seems redundant in this day and age but I feel that a screensaver gi
 
 (and I'm going to attempt to Package for alpine because I could care less of their opinion as the results are noticably showing)
 
-I've found recently that the general direction Linux is heading although it benefit users with modern hardware coming from Windows 10 I feel that the execution of this stand is not good for all of us
+I've found recently that the general direction Linux is heading although it benefit users with modern hardware coming from Windows 10 I feel that the execution of this stand is not good for all of us :/
 
 (for example me coming from Windows 10 on a device that can go down to Windows Vista)
 
