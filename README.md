@@ -29,6 +29,10 @@ i know that seems redundant in this day and age but I feel that a screensaver gi
 
 (and I'm going to attempt to Package for alpine because I could care less of their opinion as the results are noticably showing)
 
+I've found recently that the general direction Linux is heading although it benefit users with modern hardware coming from Windows 10 I feel that the execution of this stand is not good for all of us
+
+(for example me coming from Windows 10 on a device that can go down to Windows Vista)
+
 (Seriously if this keeps up I'm going to fork the entire kernel)
 
 (infact I already have)
