@@ -24,7 +24,7 @@ i know that seems redundant in this day and age but I feel that a screensaver gi
 
    Seriously X11 has been noticably more reliable than Wayland on my Raspberry Pi 400
 
-   (on any distribution other than raspberry pi is)
+   (on any distribution other than raspberry pi os)
 
 Even then no matter what device or system I'm using I still ended up going to x11 because some of the software I use is unstable on Wayland
    
