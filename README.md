@@ -2,6 +2,10 @@
 
 ## RPMs of XLibre for Enterprise Linux 10
 
+I created this fork to allow me to have a starting point for me to create a viable Free Enterprise Linux Distribution
+
+Based on Almalinux 10
+
 /etc/yum.repos.d/xlibre.repo
 ```
 [xlibre]
